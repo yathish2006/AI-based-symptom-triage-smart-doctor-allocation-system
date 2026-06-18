@@ -335,17 +335,6 @@ analyzeSymptomsAI(symptoms) -> {
 4. View completion statistics
 5. Track upcoming and overdue tasks
 
-## Future Enhancements
-
-- Video consultation feature
-- Appointment booking system
-- Payment integration
-- SMS/Email notifications
-- Mobile app
-- Advanced analytics dashboard
-- Machine learning improvement
-- Integration with medical devices
-- Telemedicine platform
 ## Screenshots
 
 ### Login Page
@@ -362,6 +351,18 @@ analyzeSymptomsAI(symptoms) -> {
 
 ### Staff Dashboard
 ![Staff Dashboard](screenshots/staff-dashboard.png)
+
+## Future Enhancements
+
+- Video consultation feature
+- Appointment booking system
+- Payment integration
+- SMS/Email notifications
+- Mobile app
+- Advanced analytics dashboard
+- Machine learning improvement
+- Integration with medical devices
+- Telemedicine platform
 
 ## Support & Contact
 
