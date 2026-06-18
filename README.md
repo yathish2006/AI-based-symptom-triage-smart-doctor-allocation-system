@@ -346,6 +346,22 @@ analyzeSymptomsAI(symptoms) -> {
 - Machine learning improvement
 - Integration with medical devices
 - Telemedicine platform
+## Screenshots
+
+### Login Page
+![Login Page](screenshots/login-page.png)
+
+### Patient Dashboard
+![Patient Dashboard](screenshots/patient-dashboard.png)
+
+### Consultation History
+![Consultation History](screenshots/consultation-history.png)
+
+### Doctor Dashboard
+![Doctor Dashboard](screenshots/doctor-dashboard.png)
+
+### Staff Dashboard
+![Staff Dashboard](screenshots/staff-dashboard.png)
 
 ## Support & Contact
 
